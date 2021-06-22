@@ -1,0 +1,37 @@
+body{margin: 0;
+text-align: center;
+
+
+}
+
+
+div{background-color: #eaf9f5;
+}
+
+h1{margin: 0;
+padding-top: 50px;
+font-family: 'Dancing Script', cursive;}
+
+h2,h3{
+  font-family: 'Questrial', sans-serif;
+  color: blue;
+}
+
+.top{
+background-color: #eaf9f5;
+position: relative;
+padding-top: 50px;}
+
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+
+}
+
+.upper-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+
+}
